@@ -40,7 +40,3 @@ java Main
 ## Contributing
 
 If you have ideas for additional SOLID principle examples or improvements to the existing code, feel free to contribute! Just fork the repository, make your changes, and submit a pull request. 
-
-## License
-
-This code is licensed under the MIT License. See the LICENSE file for details.
