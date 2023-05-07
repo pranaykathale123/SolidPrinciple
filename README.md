@@ -1,4 +1,4 @@
-Sure, here's an example README file you could use for your GitHub repo on SOLID principles:
+
 
 # SOLID Principles Code Samples
 
